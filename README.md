@@ -1,6 +1,6 @@
 # Hi there, I'm [Shiva ganesh]! 👋
 
-I'm a passionate [in problem solving] based in [India]. Welcome to my GitHub profile!
+I'm a passionate in problem solving based in India. Welcome to my GitHub profile!
 
 ## 🔧 Skills & Tools
 
@@ -19,12 +19,11 @@ I'm a passionate [in problem solving] based in [India]. Welcome to my GitHub pro
 
 ## 🌱 I’m currently learning
 
-[problem solving,front end development]
+Problem solving,Frontend development
 
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-ganesh-odem-b8628126b/)
-[![Twitter](https://img.shields.io/twitter/follow/your-handle?style=social&logo=twitter)](https://twitter.com/your-handle)
 [![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social&logo=github)](https://github.com/Shivaganeshodem)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/shiva_ganesh/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/shivaganesh_25)
@@ -34,7 +33,7 @@ I'm a passionate [in problem solving] based in [India]. Welcome to my GitHub pro
 
 ## 💬 Ask me about
 
-Feel free to reach out if you have questions about [Problem solving and DSA].
+Feel free to reach out if you have questions about Problem solving and DSA.
 
 
 ---
