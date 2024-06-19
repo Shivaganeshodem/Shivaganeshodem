@@ -29,7 +29,7 @@ Problem solving,Frontend development
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/shivaganesh_25)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/21311a0544)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shivaganesh_2003)
-[![Email](https://img.shields.io/badge/Email-Your%20Email-red?style=flat-square&logo=gmail)](mailto:21311a0544@sreenidhi.edu.in)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:21311a0544@sreenidhi.edu.com)
 
 ## 💬 Ask me about
 
